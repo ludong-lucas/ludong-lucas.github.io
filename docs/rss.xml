@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东行记</title><link>https://ludong-lucas.github.io</link><description>爱、分享、和平</description><copyright>东行记</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/43559840?v=4&amp;size=64</url><title>avatar</title><link>https://ludong-lucas.github.io</link></image><lastBuildDate>Fri, 13 Sep 2024 01:02:39 +0000</lastBuildDate><managingEditor>东行记</managingEditor><ttl>60</ttl><webMaster>东行记</webMaster><item><title>卢家寨</title><link>https://ludong-lucas.github.io/post/lu-jia-zhai.html</link><description># 房屋装修&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东行记</title><link>https://ludong-lucas.github.io</link><description>爱、分享、和平</description><copyright>东行记</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/43559840?v=4&amp;size=64</url><title>avatar</title><link>https://ludong-lucas.github.io</link></image><lastBuildDate>Fri, 13 Sep 2024 01:12:05 +0000</lastBuildDate><managingEditor>东行记</managingEditor><ttl>60</ttl><webMaster>东行记</webMaster><item><title>卢家寨</title><link>https://ludong-lucas.github.io/post/lu-jia-zhai.html</link><description># 房屋装修&#13;
 &#13;
 ## 装修计划&#13;
-墙面和天花板装修统一使用桑拿板；&#13;
-一楼除了卫生间全是水磨地，堂屋的地面弄点图案，不然太单调了；&#13;
-厨房是水泥地；&#13;
-二楼跟楼梯间都是铺瓷砖；&#13;
+* 墙面和天花板装修统一使用桑拿板；&#13;
+* 一楼除了卫生间全是水磨地，堂屋的地面弄点图案，不然太单调了；&#13;
+因为我们的墙面是桑拿板，属于亮色，所以地面也要亮色或者相近，像下面这种，或者其它亮色的也行，让施工方多提供几个方案或者图片看看&#13;
+![image](https://github.com/user-attachments/assets/1a3127ef-a847-4d94-9853-6b2767cc2932)&#13;
+像他们之前提供的这种就太暗了，跟桑拿板不匹配，到时候不好看，也不舒服，他们这种是厂房，只要耐脏又不要求美观，跟我们的需求不一样&#13;
+![b04e4f87e2069dc3bb4d16c9c5ff021](https://github.com/user-attachments/assets/82e11eb7-82d4-4b42-9a28-9188d87f60d0)&#13;
+我们看晚上有这样的款式跟颜色，感觉还不错，可以参考下这样的，这是人家的客厅&#13;
+![image](https://github.com/user-attachments/assets/67b3de70-6f3d-4fa7-89e6-0788ff52e8f9)&#13;
+这是人家的卫生间&#13;
+![image](https://github.com/user-attachments/assets/ed59af41-cbd9-4627-af32-283948952398)&#13;
+&#13;
+&#13;
+* 厨房是水泥地；&#13;
+* 二楼跟楼梯间都是铺瓷砖；&#13;
 &#13;
 ## 注意事项&#13;
 1、卫生间不要完全水平，稍微将排水的地方弄得低一点；&#13;
